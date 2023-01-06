@@ -41,6 +41,8 @@ body {
   margin: 50px;
   text-align: center;
   justify-content: center;
+  border: 1px solid red;
+  width: 300px;
 }
 .contents_wrap {
   position: relative;
