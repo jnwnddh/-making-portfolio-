@@ -1,5 +1,3 @@
-# Gettin' Clippy
+# Lee Jung Oh
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/StephenScaff/pen/WxoVBo](https://codepen.io/StephenScaff/pen/WxoVBo).
-
-Some js to create a nifty clip rect effect with fixed position text.
+안녕하세요 저의포트폴리오입니다
