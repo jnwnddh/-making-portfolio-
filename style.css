@@ -1,3 +1,4 @@
+@import url("https://webfontworld.github.io/NexonLv1Gothic/NexonLv1Gothic.css");
 *,
 *:before,
 *:after {
@@ -27,11 +28,11 @@ body {
   border-radius: 50%;
 }
 .contents {
-  left: 440px;
+  text-align: center;
+  top: 300px;
   position: relative;
 }
 .introwrap {
-  border: 1px solid red;
   text-align: center;
   display: flex;
   justify-content: center;
@@ -41,8 +42,29 @@ body {
   margin: 50px;
   text-align: center;
   justify-content: center;
-  border: 1px solid red;
   width: 300px;
+}
+.introduce {
+  position: relative;
+  color: aqua;
+  text-align: center;
+  bottom: 320px;
+  left: 300px;
+}
+.Wrapper {
+  text-align: center;
+}
+.introducecontent {
+  text-align: left;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  margin: 0 auto;
+  position: relative;
+  font-family: "NexonLv1Gothic";
+  left: 300px;
+  width: 300px;
+  bottom: 300px;
 }
 .contents_wrap {
   position: relative;
@@ -55,7 +77,9 @@ body {
 }
 .imgwrap {
   position: relative;
-  bottom: 380px;
+  align-items: center;
+  right: 450px;
+  bottom: 100px;
 }
 .skills {
   position: relative;
@@ -128,7 +152,7 @@ h2 {
   font-size: 1.75em;
   line-height: 1.2;
   position: relative;
-  top: -50px;
+  top: -120px;
 }
 @media (min-width: 32em) {
   h2 {
