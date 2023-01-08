@@ -29,7 +29,7 @@ body {
 }
 .contents {
   text-align: center;
-  top: 300px;
+  top: 250px;
   position: relative;
 }
 .introwrap {
@@ -39,6 +39,9 @@ body {
 }
 .intro {
   position: relative;
+  font-size: 20px;
+  font-family: "NexonLv1Gothic";
+  font-weight: bold;
   margin: 50px;
   text-align: center;
   justify-content: center;
@@ -62,8 +65,9 @@ body {
   margin: 0 auto;
   position: relative;
   font-family: "NexonLv1Gothic";
-  left: 300px;
-  width: 300px;
+  font-size: 20px;
+  left: 350px;
+  width: 400px;
   bottom: 300px;
 }
 .contents_wrap {
@@ -79,7 +83,7 @@ body {
   position: relative;
   align-items: center;
   right: 450px;
-  bottom: 100px;
+  bottom: 150px;
 }
 .skills {
   position: relative;
@@ -152,7 +156,7 @@ h2 {
   font-size: 1.75em;
   line-height: 1.2;
   position: relative;
-  top: -120px;
+  top: -170px;
 }
 @media (min-width: 32em) {
   h2 {
